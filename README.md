@@ -149,7 +149,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 
   <!-- Portafolio (cambia la URL) -->
   <a href="https://tu-portfolio.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
 
   <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank" rel="noopener noreferrer">
