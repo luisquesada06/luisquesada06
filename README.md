@@ -127,14 +127,15 @@ I-am-vishalmaurya@github
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisquesada06&show_icons=true&theme=algolia" alt="Luis's GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisquesada06&theme=algolia" alt="Luis's GitHub streak" height="180" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia" alt="Vishal's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia" alt="Vishal's GitHub streak" height="180" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="Vishal's Stars" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-vishalmaurya&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisquesada06&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="Luis's Stats (no rank)" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisquesada06&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=algolia" alt="Top Languages" height="180" />
 </p>
 
 
