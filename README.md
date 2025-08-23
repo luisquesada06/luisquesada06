@@ -1,14 +1,23 @@
 <h1 align="center">
-Hi, I'm Vishal Maurya!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
-<br/>
+Hi, I'm Luis Quesada!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<!-- Profile views (elige 1 de los dos) -->
+<p align="right">
+  <!-- Opción A: Komarev -->
+  <img src="https://komarev.com/ghpvc/?username=luisquesada06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <!-- Opción B: GPVC -->
+  <!-- <img src="https://gpvc.arturio.dev/luisquesada06" alt="Profile views" /> -->
 </p>
+
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing roles" />
+</p>
+
+
+
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
@@ -27,6 +36,7 @@ I-am-vishalmaurya@github
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
+
 
 
 ## 🛠️ My Favorite Tools
@@ -124,6 +134,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
   </tr>
 </table>
 
+## 🌐 My Redes
 ------
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 Last Edited On: 18/04/2022
