@@ -136,6 +136,31 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 
 ## 🌐 My Redes
 ------
+<p align="left">
+  <!-- WhatsApp (cambia 504XXXXXXXX por tu número con código de país) -->
+  <a href="https://wa.me/504XXXXXXXX?text=Hola%20Luis,%20te%20contacto%20desde%20tu%20GitHub" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+
+  <!-- Outlook (cambia el correo) -->
+  <a href="mailto:tu_correo@outlook.com?subject=Hola%20Luis%20-%20desde%20GitHub">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+
+  <!-- Portafolio (cambia la URL) -->
+  <a href="https://tu-portfolio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+  
+</p>
+
+
+
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 Last Edited On: 18/04/2022
 
