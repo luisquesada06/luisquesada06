@@ -7,7 +7,7 @@ Hi, I'm Luis Quesada!
 <p align="right">
   <!-- Opción A: Komarev -->
   <!-- Opción B: GPVC -->
-  <!-- <img src="https://gpvc.arturio.dev/luisquesada06" alt="Profile views" /> -->
+
 </p>
 
 <!-- Typing SVG -->
