@@ -6,7 +6,6 @@ Hi, I'm Luis Quesada!
 <!-- Profile views (elige 1 de los dos) -->
 <p align="right">
   <!-- Opción A: Komarev -->
-  <img src="https://komarev.com/ghpvc/?username=luisquesada06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <!-- Opción B: GPVC -->
   <!-- <img src="https://gpvc.arturio.dev/luisquesada06" alt="Profile views" /> -->
 </p>
